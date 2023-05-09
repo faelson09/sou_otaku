@@ -1,0 +1,681 @@
+{
+  "perguntas": [
+    {
+      "pergunta": "Qual o nome completo do Kakashi Hatake?",
+      "resposta": {
+        "correta": "Kakashi Hatake",
+        "outras": [
+          "Kakashi Yamato Hatake",
+          "Kakashi Takeshi Hatake",
+          "Kakashi Satoru Hatake",
+          "Kakashi Yori Hatake",
+          "Kakashi Haruto Hatake",
+          "Kakashi Masato Hatake",
+          "Kakashi Renji Hatake",
+          "Kakashi Ryo Hatake",
+          "Kakashi Itachi Hatake",
+          "Kakashi Koda Hatake",
+          "Kakashi Kenji Hatake",
+          "Kakashi Akihiko Hatake",
+          "Kakashi Toshiro Hatake",
+          "Kakashi Seiji Hatake",
+          "Kakashi Shiro Hatake",
+          "Kakashi Shinji Hatake",
+          "Kakashi Hiroto Hatake",
+          "Kakashi Satoshi Hatake",
+          "Kakashi Taichi Hatake",
+          "Kakashi Naoaki Hatake",
+          "Kakashi Atsushi Hatake",
+          "Kakashi Makoto Hatake",
+          "Kakashi Kaito Hatake",
+          "Kakashi Hatake Hatake",
+          "Kakashi Hatake sempai",
+          "Kakashi Hatake senju",
+          "Kakashi Hatake uchiha",
+          "Kakashi namikaze"
+        ]
+      }
+    },
+    {
+      "pergunta": "Qual o clã que deu origem ao Sharingan?",
+      "resposta": {
+        "correta": "Uchiha",
+        "outras": [
+          "Senju",
+          "Hyuga",
+          "Haruno",
+          "Kaguya",
+          "Aburame",
+          "Akimichi",
+          "Yamanaka",
+          "Inuzuka",
+          "Nara",
+          "Sarutobi",
+          "Shimura",
+          "Hoshigaki",
+          "Kurosuki",
+          "Yotsuki",
+          "Fuma",
+          "Wasabi",
+          "Gerotora",
+          "Tendo",
+          "Tobitaka",
+          "Sakata",
+          "Chinoike",
+          "Shamon",
+          "Mishima",
+          "Baba"
+        ]
+      }
+    },
+    {
+      "pergunta": "Como era conhecido Sakumo da Vila da Folha? ",
+      "resposta": {
+        "correta": "Presa Branca",
+        "outras": [
+          "primeiro Jinchuriki da Nove caldas",
+          "Espada Lendária",
+          "Grande Guerreiro",
+          "Herói de Konoha",
+          "Senhor da Guerra",
+          "Destruidor de Inimigos",
+          "Samurai de Elite",
+          "Mestre das Sombras",
+          "Assassino dos Nove Membros",
+          "Estrela Fugaz",
+          "Relâmpago Prateado",
+          "Paladino do Norte",
+          "Anjo Negro",
+          "Tigre de Fogo",
+          "Sábio do Sol Nascente",
+          "Fênix Imortal",
+          "Guerreiro Eterno",
+          "Dragão Brilhante",
+          "Defensor da Justiça",
+          "Punho de Ferro",
+          "Guardião da Vila",
+          "Ás dos Combates",
+          "Campeão da Arena",
+          "Líder Supremo"
+        ]
+      }
+    },
+    {
+      "pergunta": "Quais os nomes dos pais de Naruto Uzumaki?",
+      "resposta": {
+        "correta": "Minato e Kushina",
+        "outras": [
+          "Higa e Tatsu",
+          "Jirocho e Tsunade",
+          "Kozo e Yoshino",
+          "Jiraiya e Tsunade",
+          "Kakashi e Rin",
+          "Monzaemon e Satsuki",
+          "Hayate e Yugao",
+          "Danzo e Shiho",
+          "Nawaki e Kushina",
+          "Itachi e Mikoto",
+          "Yashamaru e Karura",
+          "Gaara e Temari",
+          "Asuma e Kurenai",
+          "Fugaku e Mikoto",
+          "Obito e Rin",
+          "Hiashi e Hanabi",
+          "Shikaku e Yoshino",
+          "Sasuke e Sakura",
+          "Gai e Tenten",
+          "Hashirama e Mito",
+          "Tobirama e Kagami",
+          "Madara e Izuna",
+          "Naruto nunca soube quem eram seus pais",
+          "Pain e Konan"
+        ]
+      }
+    },
+    {
+      "pergunta": "O que significa o símbolo na testa dos membros do clã Hyūga?",
+      "resposta": {
+        "correta": "Demonstra maturidade na idade adulta.",
+        "outras": [
+          "Simboliza experiência em batalha.",
+          "Representa a hierarquia dentro do clã.",
+          "Indica habilidades de chakra poderosas.",
+          "Significa status social.",
+          "Identifica descendência direta do fundador do clã.",
+          "Sinaliza participação em práticas espirituais.",
+          "Insígnia para distinguir membros do clã durante a guerra.",
+          "Distinção por mérito e conquistas.",
+          "Expressa fidelidade à aldeia oculta da Folha.",
+          "Marcador de privilégio e autoridade.",
+          "Marca de apoio à liderança do Hokage.",
+          "Identificação de cargos importantes dentro do clã.",
+          "Registro de habilidades médicas superiores.",
+          "Símbolo de dedicação aos estudos.",
+          "Designação de especialização em técnicas de combate.",
+          "Denota pureza no sangue.",
+          "Demonstração de controle emocional.",
+          "Indicador de proeza acadêmica.",
+          "Sinaliza equipe médica e de primeiros socorros.",
+          "Identificador para missões arriscadas.",
+          "Distinção para quem obteve níveis de treinamento superiores.",
+          "Reconhecimento pelos serviços prestados à aldeia oculta da Folha.",
+          "Diferenciação entre ramificações do clã Hyūga.",
+          "Simboliza a titularidade do cargo de líder do clã."
+        ]
+      }
+    },
+    {
+      "pergunta": "Quantos níveis tem o Mangekyou Sharingan?",
+      "resposta": {
+        "correta": "Não há níveis",
+        "outras": [
+          "5 níveis",
+          "6 níveis",
+          "7 níveis",
+          "4 níveis",
+          "10 níveis",
+          "3 níveis",
+          "8 níveis",
+          "2 níveis",
+          "12 níveis",
+          "9 níveis",
+          "1 nível",
+          "15 níveis",
+          "20 níveis",
+          "25 níveis",
+          "30 níveis",
+          "18 níveis",
+          "22 níveis",
+          "16 níveis",
+          "11 níveis",
+          "13 níveis",
+          "14 níveis",
+          "17 níveis",
+          "19 níveis"
+        ]
+      }
+    },
+    {
+      "pergunta": "Qual é a técnica que permite a um usuário de Sharingan copiar qualquer jutsu que ele tenha visto apenas uma vez?",
+      "resposta": {
+        "correta": "Jutsu de Cópia do Sharingan",
+        "outras": [
+          "Jutsu da Ilusão do Sharingan",
+          "Jutsu de Transplante do Sharingan",
+          "Jutsu de Adivinhação do Sharingan",
+          "Jutsu de Leitura do Sharingan",
+          "Jutsu de Anulação do Jutsu do Sharingan",
+          "Jutsu de Reflexão do Sharingan",
+          "Jutsu da Imortalidade do Sharingan",
+          "Jutsu de Distorção do Sharingan",
+          "Jutsu de Repetição do Sharingan",
+          "Jutsu de Inscrição do Sharingan",
+          "Jutsu de Redirecionamento do Sharingan",
+          "Jutsu de Compartilhamento do Sharingan",
+          "Jutsu de Controle do Sharingan",
+          "Jutsu da Criação do Sharingan",
+          "Jutsu de Transferência do Sharingan",
+          "Jutsu de Ampliação do Sharingan",
+          "Jutsu de Absorção do Sharingan",
+          "Jutsu de Desintegração do Sharingan",
+          "Jutsu da Manifestação do Sharingan",
+          "Jutsu da Incorporação do Sharingan",
+          "Jutsu de Detecção do Sharingan",
+          "Jutsu de Dissimulação do Sharingan",
+          "Jutsu de Supressão do Sharingan",
+          "Jutsu de Fusão do Sharingan"
+        ]
+      }
+    },
+    {
+      "pergunta": "Qual é o sobrenome de Nagato?",
+      "resposta": {
+        "correta": "Uzumaki",
+        "outras": [
+          "Haruno",
+          "Hyuga",
+          "Tsunade",
+          "Hatake",
+          "Namikaze",
+          "Yamanaka",
+          "Nohara",
+          "Aburame",
+          "Kaguya",
+          "Morino",
+          "Inuzuka",
+          "Akimichi",
+          "Otsutsuki",
+          "Fuuma",
+          "Gekkou",
+          "Kurosuki",
+          "Mitarashi",
+          "Ishikawa",
+          "Sarutobi",
+          "Tsuchigumo",
+          "Orochimaru",
+          "Senju",
+          "Kurama",
+          "Rikudou"
+        ]
+      }
+    },
+    {
+      "pergunta": "Quem é o filho do presa branca?",
+      "resposta": {
+        "correta": "Kakashi Hatake",
+        "outras": [
+          "Deidara",
+          "Sasuke Uchiha",
+          "Shikamaru Nara",
+          "Ino Yamanaka",
+          "Choji Akimichi",
+          "Kiba Inuzuka",
+          "Neji Hyuga",
+          "Rock Lee",
+          "Tenten",
+          "Kankuro",
+          "Temari",
+          "Gaara",
+          "Konohamaru Sarutobi",
+          "Asuma Sarutobi",
+          "Mirai Sarutobi",
+          "Hiruzen Sarutobi",
+          "Danzo Shimura",
+          "Anko Mitarashi",
+          "Orochimaru",
+          "Kabuto Yakushi",
+          "Guren",
+          "Yukimaru",
+          "Nagato Uzumaki",
+          "Minato Namikaze"
+        ]
+      }
+    },
+    {
+      "pergunta": "Quem são os três Sannin lendários?",
+      "resposta": {
+        "correta": "Orochimaru, Jiraiya e Tsunade",
+        "outras": [
+          "Hanzo, Nagato e Konan",
+          "Hashirama, Tobirama e Hiruzen",
+          "Kisame, Zabuza e Haku",
+          "Minato, Kushina e Hiruzen",
+          "Kaguya, Hamura e Hagoromo",
+          "Madara, Obito e Kakashi",
+          "TenTen, Ino e Choji",
+          "Kimimaro, Tayuya e Sakon/Ukon",
+          "Danzo, Shisui e Itachi",
+          "Nagato, Yahiko e Konan",
+          "Rasa, Chiyo e Sasori",
+          "Kagami, Izuna e Tobi",
+          "Yagura, Mei e Ao",
+          "Kurotsuchi, Akatsuchi e Ōnoki",
+          "Jugo, Karin e Suigetsu",
+          "Dosu, Kin e Zaku",
+          "Temari, Kankuro e Gaara",
+          "Utakata, Fū e Yugito",
+          "Dōjutsu Sannin: Sasuke, Naruto e Sakura",
+          "Azuma, Genma e Raido",
+          "Tsume, Hana e Kiba",
+          "Ibiki, Anko e Aoba",
+          "Ginkaku, Kinkaku e Ōnoki",
+          "Darui, Torune e Fu"
+        ]
+      }
+    },
+    {
+      "pergunta": "Qual é o apelido do quarto Hokage?",
+      "resposta": {
+        "correta": "Relampago Amarelo",
+        "outras": [
+          "Sábio da Folha",
+          "Relâmpago Hokage",
+          "Falcão da Aldeia Oculta",
+          "Guerreiro do Dragão",
+          "O Vento Veloz de Konoha",
+          "Herói dos Cem Provérbios",
+          "Incrível Hokage",
+          "O Dragão Selvagem de Konoha",
+          "Sombras da Morte",
+          "Lâmina Brilhante Hokage",
+          "A Flecha Escarlate de Konoha",
+          "Rei do Taijutsu",
+          "A Chama Ardente de Konoha",
+          "O Décimo Primeiro Hokage",
+          "Dois Lados Hokage",
+          "O Último Uzumaki",
+          "Espada Relâmpago Hokage",
+          "O Guardião de Konoha",
+          "Ninja Lendário",
+          "O Despertar do Hokage",
+          "Dança das Sombras Hokage",
+          "Punho de Ferro Hokage",
+          "A Estrela Radiante de Konoha",
+          "Ninja Dark"
+        ]
+      }
+    },
+    {
+      "pergunta": "Qual é o nome do irmão de Sasuke Uchiha?",
+      "resposta": {
+        "correta": "Itachi Uchiha",
+        "outras": [
+          "Genji Uchiha",
+          "Shiro Uchiha",
+          "Fugaku Uchiha",
+          "Hikaru Uchiha",
+          "Takumi Uchiha",
+          "Ryo Uchiha",
+          "Ren Uchiha",
+          "Koji Uchiha",
+          "Yukio Uchiha",
+          "Kenta Uchiha",
+          "shisui Uchiha",
+          "Yuto Uchiha",
+          "Kota Uchiha",
+          "Tatsuo Uchiha",
+          "Takeshi Uchiha",
+          "Hiroki Uchiha",
+          "Yuki Uchiha",
+          "Daiki Uchiha",
+          "Kazuo Uchiha",
+          "Issei Uchiha",
+          "Osamu Uchiha",
+          "Haru Uchiha",
+          "Aki Uchiha",
+          "Keiji Uchiha"
+        ]
+      }
+    },
+    {
+      "pergunta": "quais foram as ultimas palavras de itachi?",
+      "resposta": {
+        "correta": "",
+        "outras": []
+      }
+    },
+    {
+      "pergunta": "Qual EP Naruto conversa com Kushina?",
+      "resposta": {
+        "correta": "Episódio 246",
+        "outras": [
+          "Episódio 200",
+          "Episódio 275",
+          "Episódio 367",
+          "Episódio 400",
+          "Episódio 437",
+          "Episódio 346",
+          "Episódio 204",
+          "Episódio 346",
+          "Episódio 617",
+          "Episódio 301",
+          "Episódio 230",
+          "Episódio 265",
+          "Episódio 279",
+          "Episódio 233",
+          "Episódio 251",
+          "Episódio 712",
+          "Episódio 229",
+          "Episódio 231",
+          "Episódio 245",
+          "Episódio 222",
+          "Episódio 236",
+          "Episódio 204",
+          "Episódio 283",
+          "Episódio 201"
+        ]
+      }
+    },
+    {
+      "pergunta": "Quais são as técnicas específicas do clã Aburame?",
+      "resposta": {
+        "correta": "Jutsu de Insetos",
+        "outras": [
+          "Implosão dos Insetos",
+          "Explosão dos Insetos",
+          "Técnica de Mimetismo com Insetos",
+          "Rajada de Insetos",
+          "Tormenta de Insetos",
+          "Lâminas de Insetos",
+          "Defesa de Insetos",
+          "Técnica do Dormir com Insetos",
+          "Prisão de Insetos",
+          "Escaravelho Rastejante da Destruição",
+          "Garra dos Insetos",
+          "Técnica de Conjugação de Larvas",
+          "Barreira de Insetos",
+          "Técnica de Dispersão de Insetos",
+          "Devastação dos Insetos",
+          "Dança das Borboletas de Seda",
+          "Supressão de Chakra dos Insetos",
+          "Manobra de Evitação de Insetos",
+          "Ondas Aéreas de Insetos",
+          "Cascata de Insetos",
+          "Furacão dos Insetos",
+          "Tela de Insetos",
+          "Floresta de Insetos",
+          "Tsunami de Insetos"
+        ]
+      }
+    },
+    {
+      "pergunta": "De que forma Shikamaru aprendeu a técnica do clã  Nara?",
+      "resposta": {
+        "correta": "ww",
+        "outras": [
+          "Eles compartilham uma conexão especial devido ao treinamento intenso que passaram juntos desde jovens.",
+          "Kiba e Akamaru são capazes de se comunicar telepaticamente.",
+          "Kiba usa sinais manuais para se comunicar com Akamaru que foram desenvolvidos durante seu treinamento.",
+          "Usando cheiros diferentes, Kiba é capaz de dar comandos específicos a Akamaru."
+        ]
+      }
+    },
+    {
+      "pergunta": "Como Kiba Inuzuka é capaz de lutar em conjunto com seu cachorro Akamaru?",
+      "resposta": {
+        "correta": "Kiba é muito intuitivo e pode antecipar as ações de Akamaru sem comunicação vocal direta.",
+        "outras": [
+          "Eles compartilham uma conexão especial devido ao treinamento intenso que passaram juntos desde jovens.",
+          "Kiba e Akamaru são capazes de se comunicar telepaticamente.",
+          "Kiba usa sinais manuais para se comunicar com Akamaru que foram desenvolvidos durante seu treinamento.",
+          "Usando cheiros diferentes, Kiba é capaz de dar comandos específicos a Akamaru.",
+          "Kiba e Akamaru realizam exercícios diários juntos para manter sua coordenação e sincronização.",
+          "Kiba desenvolveu um conjunto de gritos ou assobios específicos que correspondem aos comandos que ele deseja que Akamaru execute.",
+          "Akamaru é muito inteligente e pode executar ações semelhantes às de um cão-guia em 'resposta' a situações estressantes.",
+          "Kiba lê as expressões faciais de Akamaru para determinar seus pensamentos e intenções.",
+          "Akamaru é treinado para ler os movimentos do corpo de Kiba e responder adequadamente.",
+          "Kiba é capaz de sentir quando Akamaru está prestes a agir devido à sua forte ligação emocional um com o outro.",
+          "Kiba e Akamaru realizam sessões de treinamento com outros ninjas e seus parceiros animais para aumentar sua experiência em trabalho em equipe.",
+          "Kiba usa objetos físicos, como bastões ou lenços, para apontar o que ele quer que Akamaru faça.",
+          "Kiba usa um sistema de código que envolve palavras em voz alta seguidas por gestos manuais.",
+          "Akamaru está treinado para seguir automaticamente os movimentos de Kiba, tornando seu trabalho conjunto extremamente suave e eficiente.",
+          "Kiba tem uma espécie de 'sexto sentido' especial que o ajuda a antecipar as ações de Akamaru, mesmo sem comunicação direta.",
+          "Kiba e Akamaru praticam artes marciais juntos, o que aumenta sua coordenação e capacidade física colaborativa.",
+          "Kiba é capaz de entender a respiração de Akamaru, permitindo que ele saiba quando ele deve se mover ou agir em relação ao seu parceiro animal.",
+          "Kiba treina Akamaru para responder a diferentes tons de voz para fins específicos.",
+          "Kiba é muito observador e é capaz de ler os padrões de comportamento de Akamaru em situações estressantes para prever suas ações.",
+          "Kiba usa sons específicos para indicar em qual direção ele gostaria que Akamaru se movesse.",
+          "Kiba e Akamaru são constantemente colocados em situações difíceis de resolução de problemas juntos, como teste para desenvolver ainda mais sua conexão e trabalho conjunto.",
+          "Akamaru é capaz de ler as intenções de Kiba através do tom de sua voz e expressões faciais.",
+          "Kiba pode usar substâncias químicas corporais para enviar sinais específicos a Akamaru, como feromônios.",
+          "Kiba é capaz de transmitir instruções específicas a Akamaru através do treinamento de reflexos condicionados."
+        ]
+      }
+    },
+    {
+      "pergunta": "Por que Orochimaru queria aprender todos os jutsus proibidos?",
+      "resposta": {
+        "correta": "Ele era obcecado pela ideia de se tornar imortal.",
+        "outras": [
+          "Para se tornar o ninja mais poderoso de todos.",
+          "Para destruir a aldeia da folha.",
+          "Para obter conhecimento sobre técnicas proibidas e usar isso para derrotar seus inimigos.",
+          "Para se vingar dos Sannin por rejeitá-lo no passado.",
+          "Porque ele quis desafiar as restrições impostas pelo mundo ninja.",
+          "Para alcançar seus próprios objetivos egoístas.",
+          "Para satisfazer sua curiosidade insaciável.",
+          "Para dominar todas as formas de Ninjutsu conhecidas.",
+          "Para superar seu ex-mentor Hiruzen Sarutobi.",
+          "Para adquirir poder supremo e governar o mundo.",
+          "Para mostrar sua superioridade em relação a outros vilões.",
+          "Ele pensou que aprender os jutsus proibidos daria a ele uma vantagem injusta na batalha.",
+          "Para escapar da morte ou prolongar sua vida.",
+          "Para aniquilar todos aqueles que o rejeitaram no passado.",
+          "Para conseguir se unir às forças da Akatsuki.",
+          "Por pura vaidade.",
+          "Para ganhar uma vantagem tática nos combates.",
+          "Ele tinha sido ameaçado antes e queria estar preparado para o pior.",
+          "Para investigar mistérios relacionados ao chakra.",
+          "Ele queria descobrir o segredo da vida e da morte.",
+          "Para aumentar seu conhecimento de genética.",
+          "Para subjugar outras aldeias ninjas.",
+          "Por causa de um pacto com o Deus da Morte.",
+          "Para vingar a morte de um ente querido."
+        ]
+      }
+    },
+    {
+      "pergunta": "Qual era o objetivo principal da organizaçāo Akatsuki Depois da morte do Yahiko?",
+      "resposta": {
+        "correta": "coletar todas as bijuus para obter imensa quantidade de chakra.",
+        "outras": [
+          "proteger o mundo ninja da destruição.",
+          "estabelecer a paz no mundo.",
+          "encontrar e capturar todos os jinchuurikis.",
+          "analisar as técnicas secretas dos outros ninjas.",
+          "se tornar a organização mais poderosa do mundo ninja.",
+          "descobrir os segredos da aldeia da folha.",
+          "reviver seu líder falecido, Yahiko.",
+          "realizar experimentos com base em poderosas técnicas de energia natural.",
+          "criar um exército de ninjas invencíveis.",
+          "expandir seu controle nas vilas ocultas da Folha, Névoa, Pedra, Areia, Nuvem, Som, Lua, viana e Estrela.",
+          "manipular a política entre as nações do mundo ninja.",
+          "reunir informações sobre a existência de imortais.",
+          "recuperar o legado secreto deixado pelos sábios que fundaram os cinco países grandes.",
+          "estabelecer uma nova ordem através do uso do poder dos bijuus.",
+          "avaliar os membros da Organização e escolher um sucessor ao cargo de líder.",
+          "purificar o mundo ninja do mal que existe dentro das vilas.",
+          "derrotar a Aliança Shinobi criada contra a organização Akatsuki.",
+          "deter o plano do Obito Uchiha/Madara de colocar todo mundo em um genjutsu infinito.",
+          "fazer justiça por Yahiko, seu fundador e amigo morto pelo neji que tinha uma visão diferente para o grupo.",
+          "obter a riqueza e tesouros das vilas ocultas.",
+          "encontrar um método que levasse à imortalidade.",
+          "aumentar seu poder no mundo ninja e ganhar respeito dos demais líderes de aldeias.",
+          "estudar a Bijuu do 10 caudas e eventualmente controlá-la.",
+          "fazer cumprir suas ambições egoístas e pessoais através da erradicação dos Gokages em nome de Yahiko, seu fundador."
+        ]
+      }
+    },
+    {
+      "pergunta": "O que aconteceu com Rin Nohara?",
+      "resposta": {
+        "correta": "Rin Nohara Foi acidentalmente morta por kakashi",
+        "outras": [
+          "Rin Nohara se tornou uma ninja médica muito bem sucedida em Konoha.",
+          "Infelizmente, Rin Nohara foi morta durante a Quarta Grande Guerra Ninja.",
+          "Rin Nohara traiu sua aldeia e se juntou à Akatsuki.",
+          "Rin Nohara deixou Konoha para viajar pelo mundo como uma ninja livre.",
+          "Rin Nohara descobriu que era descendente de um clã poderoso e secreto e se uniu a eles.",
+          "Rin Nohara se casou com Kakashi Hatake.",
+          "Rin Nohara se tornou uma espiã para outra aldeia e acabou sendo pega por Konoha e executada.",
+          "Rin Nohara nunca existiu.",
+          "Rin Nohara escapou do ataque de Kakashi, Obito e Rin e viveu o resto de sua vida na floresta.",
+          "Rin Nohara roubou o Byakugan do Clã Hyuga e desapareceu para nunca mais ser vista.",
+          "Rin Nohara se tornou líder de uma gangue de ninjas renegados.",
+          "Rin Nohara Foi acidentalmente morta por tobi",
+          "Rin Nohara Foi agredida e morta por tobi e kakashi",
+          "Rin Nohara foi vítima de um experimento secreto realizado pelos cientistas da Aldeia da Areia e transformada em uma abominação monstruosa.",
+          "Rin Nohara mudou seu nome e identidade e se tornou uma consultora de segurança cibernética famosa em Tóquio.",
+          "Rin Nohara se uniu a Kabuto Yakushi e o ajudou em sua busca por poder.",
+          "Rin Nohara se cansou da vida de ninja e se tornou uma agricultora em uma pequena cidade no campo.",
+          "Rin Nohara conseguiu sobreviver ao ataque mas perdeu a memória e nunca mais foi vista.",
+          "Rin Nohara se tornou uma caçadora de recompensas procurando criminosos em todas as partes do mundo.",
+          "Rin Nohara retornou como um zumbi e fez parte do exército de Orochimaru durante a Quarta Grande Guerra Ninja.",
+          "Rin Nohara foi raptada por ninjas inimigos e passou muitos anos em cativeiro antes de escapar.",
+          "Rin Nohara se tornou uma das lendárias Sannin de Konoha.",
+          "Rin Nohara se mudou para outra dimensão usando um jutsu secreto que apenas ela sabia.",
+          "Rin Nohara se tornou uma professora extremamente popular na Academia Ninja de Konoha.",
+          "Rin Nohara acabou se casando com Obito Uchiha depois de sua suposta morte."
+        ]
+      }
+    },
+    {
+      "pergunta": "Como a técnica de edo tensei funciona?",
+      "resposta": {
+        "correta": "A técnica exige que o usuário tenha uma amostra de DNA do falecido.",
+        "outras": [
+          "O usuário invoca uma criatura demoníaca do submundo que traz de volta a alma do falecido.",
+          "Usando um pergaminho especial, o usuário pode selar temporariamente um espírito no mundo mortal.",
+          "O usuário sacrifica sua própria energia vital para trazer de volta o falecido como uma marionete não-viva.",
+          "É uma técnica secreta passada por gerações na aldeia da folha.",
+          "Usando um transmissor de chakra, o usuário faz contato com o espírito e o controla.",
+          "Essa técnica é proibida em todas as vilas Shinobi.",
+          "Uma invocação Reanimation Ritual é necessária para usar esta técnica.",
+          "A técnica foi inventada pelo lendário ninja Orochimaru.",
+          "Quanto mais poderoso o falecido, maior o sacrifício exigido do usuário.",
+          "A técnica só pode ser lançada durante a lua cheia.",
+          "Os falecidos são trazidos de volta à vida com seus poderes e técnicas originais.",
+          "A técnica funciona através do uso de células Hashirama.",
+          "O usuário deve ter conhecimento dos segredos proibidos escritos nas tábuas de pedra.",
+          "Depois de lançada, a técnica não pode ser desfeita até que uma condição específica seja atendida.",
+          "A técnica só pode ser usada uma vez a cada 100 anos.",
+          "Quando a técnica é usada, os corpos reanimados sofrem uma mudança física perceptível.",
+          "O usuário deve executar selos manuais em uma ordem específica para invocar os mortos.",
+          "A técnica tem um alto risco de falha, o que pode resultar na revolta dos espíritos reanimados.",
+          "É preciso um sacrifício humano para completar a técnica.",
+          "O espírito reanimado só pode permanecer no mundo mortal por um curto período antes de retornar ao submundo.",
+          "A técnica foi usada pela primeira vez durante a Terceira Guerra Mundial Shinobi.",
+          "Os corpos reanimados são vulneráveis a técnicas de selo.",
+          "O usuário precisa ter habilidades médicas avançadas para controlar completamente o corpo reanimado.",
+          "Quando a técnica é usada, o céu fica escuro por vários dias."
+        ]
+      }
+    },
+    {
+      "pergunta": "qual destas vilas é do anime naruto?",
+      "resposta": {
+        "correta": "Kumogakure",
+        "outras": [
+          "cidade do nether",
+          "cidade do end",
+          "vila oculta de viana",
+          "faelsogakure",
+          "minato",
+          "saitama",
+          "Tokyo",
+          "hiyugakure",
+          "senjugakure",
+          "metropolis",
+          "gotan",
+          "cidade de jura tempeste",
+          "floresta de jura tempeste",
+          "skigakure",
+          "Cidade de Pallet",
+          "Cidade de Santa Maria",
+          "Cidade das Espadas",
+          "Soul sociaty",
+          "Loguetown",
+          "Cidade do Trovão",
+          "Cidade Futurística",
+          "Cidade de Vermilion",
+          "Cidade do Oeste",
+          "Cidade de Londerz",
+          "Cidade Eccentric",
+          "Osakagame",
+          "Cidade Hargeon",
+          "Comitê de Boas-Vindas",
+          "Seireitei",
+          "Cidade de Mahora",
+          "Wingsgakure",
+          "Cidade de Kantogakure",
+          "Marineford",
+          "Cidade de Orange",
+          "Gougane",
+          "Cidade de Central",
+          "East City",
+          "Nagoya"
+        ]
+      }
+    }
+  ]
+}
